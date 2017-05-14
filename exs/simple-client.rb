@@ -4,7 +4,7 @@
 #____________________________________________________________________
 #
 # Author: Shaun Ashby <shaun@ashby.ch>
-# Created: 2017-05-04 21:40:06+0200 (Time-stamp: <2017-05-04 22:52:29 sashby>)
+# Created: 2017-05-04 21:40:06+0200
 # Revision: $Id$
 # Description: Simplest test to get a message from a queue
 #
